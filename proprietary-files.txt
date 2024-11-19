@@ -101,7 +101,7 @@ vendor/lib64/camera/fdconfigpreviewlite.bin
 vendor/lib64/camera/fdconfigvideo.bin
 vendor/lib64/camera/fdconfigvideolite.bin
 vendor/lib64/hw/camera.qcom.so
-vendor/lib64/hw/com.qti.chi.override.so;DISABLE_CHECKELF
+vendor/lib64/hw/com.qti.chi.override.so
 vendor/lib64/libFaceGrade.so
 vendor/lib64/libHalSuperSensorServer.so
 vendor/lib64/libSNPE.so
@@ -139,7 +139,7 @@ vendor/lib64/libmialgo_fs.so
 vendor/lib64/libmialgo_rfs.so
 vendor/lib64/libmialgo_sd.so
 vendor/lib64/libmialgo_utils.so
-vendor/lib64/libmialgoengine.so;DISABLE_CHECKELF
+vendor/lib64/libmialgoengine.so
 vendor/lib64/libmibokeh_855.so
 vendor/lib64/libmpbase.so
 vendor/lib64/libnpu.so

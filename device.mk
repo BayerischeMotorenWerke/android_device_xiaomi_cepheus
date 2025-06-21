@@ -41,6 +41,9 @@ PRODUCT_PACKAGES += \
     SettingsOverlayDevice \
     SystemUIOverlayDevice
 
+# Recovery
+$(call soong_config_set_bool,recovery,target_recovery_uses_qti_drm,true)
+
 # Shipping API level
 PRODUCT_SHIPPING_API_LEVEL := 28
 
